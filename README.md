@@ -1,5 +1,5 @@
 # Chromakey Lab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoffeePoweredComputers/uni-chromakey/blob/master/chromakey.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOURFILEHERE>)
 
 ### Lab Instructions
 1. Use the open in Colab badge above to open the document in Google Colab
